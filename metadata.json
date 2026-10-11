@@ -1,0 +1,7 @@
+{
+  "name": "CredSure - Educational Record Verification System",
+  "description": "A clean, authentic educational certificate verification system. Extract certificate details via OCR and verify against authenticated institutional records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
